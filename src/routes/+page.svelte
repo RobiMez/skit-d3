@@ -65,6 +65,9 @@
 				System pref
 			</button>
 		</div>
-		<a href="/debug"> Features </a>
+		<span class="flex flex-row justify-center items-center gap-4">
+			<a href="/debug"> Features </a>
+			<a href="https://github.com/RobiMez/skit-d3"> Repo </a>
+		</span>
 	{/if}
 </div>
